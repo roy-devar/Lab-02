@@ -2,8 +2,6 @@
 
 # Project Setup Instructions
 
-Make sure to download the zip files and put them into whatever machine you're using.
-
 ## Step 1: Create File Structure
 Run the following command to create the Maven project structure:
 ```bash
